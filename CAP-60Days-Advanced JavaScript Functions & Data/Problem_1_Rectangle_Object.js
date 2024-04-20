@@ -16,7 +16,4 @@ var rectangle = {
   
   rectangle.perimeter();
   rectangle.area();
-  rectangle.length =10;
-  rectangle.breadth = 30;
-  rectangle.perimeter();
-  rectangle.area();
+ 
