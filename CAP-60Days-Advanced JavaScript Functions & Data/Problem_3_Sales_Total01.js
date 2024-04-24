@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-<script>
-  var sales = [
+var sales = [
   { item: 'PS4 Pro', stock: 3, original: 399.99 },
   { item: 'Xbox One X', stock: 1, original: 499.99, discount: 0.1 },
   { item: 'Nintendo Switch', stock: 4, original: 299.99 },
@@ -51,5 +40,3 @@ calculateSalesTotals : function(){
 // obj.calculateSalesTotals();
 let arr=obj.calculateSalesTotals();
 console.log(arr);
-</script>
-</html>
