@@ -1,0 +1,35 @@
+/* Fill CSS here */
+h1{
+    color:royalblue
+}
+
+form{
+    display:inline-block;
+    box-shadow: 1px 1px 2px 4px gainsboro;
+    height: 100%;
+    
+    padding: 10px;
+   
+}
+
+table{
+   text-align: center;
+    display:inline-block;
+    padding: auto;
+    
+    margin-left: 23px;
+
+    
+}
+
+div{
+    display: flex;
+    
+    
+}
+
+thead{
+    background-color: royalblue;
+    color:white
+    
+}
